@@ -14,8 +14,9 @@ on linux, put the file in your home folder like this
 and type this into your terminal:
 sudo python3 nullse.py
 
-<img width="664" height="171" alt="image" src="https://github.com/user-attachments/assets/b04f81ab-6bd5-41bc-8d22-867d62266c7e" />
+<img width="664" height="897" alt="image" src="https://github.com/user-attachments/assets/48b8d102-e7f6-4fe8-bc09-e9a81b469e65" />
 
 it should look something like this (but your keyboard names will be different to mine).
 
 on windows, install python and just double click the file.
+OR use the autohotkey script here: https://gist.github.com/777777771/eff2044a94d99e6aa3302f8dbafbaad7
