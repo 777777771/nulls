@@ -17,6 +17,7 @@ sudo python3 nullse.py
 <img width="664" height="897" alt="image" src="https://github.com/user-attachments/assets/48b8d102-e7f6-4fe8-bc09-e9a81b469e65" />
 
 it should look something like this (but your keyboard names will be different to mine).
+(please note that you need the python3-evdev package)
 
 on windows, install python and just double click the file.
 OR use the autohotkey script here: https://gist.github.com/777777771/eff2044a94d99e6aa3302f8dbafbaad7
